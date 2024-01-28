@@ -10,7 +10,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Joined Github **5** years ago.
 
-Since then I pushed **50**+ commits, submitted **4**+ pull requests, and contributed to **0**+ public repositories.
+Since then I pushed **50**+ commits and submitted **4**+ pull requests.
 
 ## Languages and tools
 
@@ -64,7 +64,7 @@ Since then I pushed **50**+ commits, submitted **4**+ pull requests, and contrib
 
 <img align="right" height="210" width="365" alt="" src="resources/gig-code.gif" />
 
-- 🛠 &nbsp; I’m currently working with Java backend, APIs, event streaming etc.
+- 🛠 &nbsp; I’m currently working with Java backend, APIs, events, etc.
 - 🚀 &nbsp; I’m currently exploring Kotlin, Frontend, JS backend, etc.
 - 👾 &nbsp; Fun fact: **Cold is colder when it's not so cold**.
 - 📫 &nbsp; Reach me out [here](mailto:anadi.nema@outlook.com).
