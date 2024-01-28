@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Anadi](https://github.com/anadinema/anadinema/blob/master/README.md)!
+# Hi there 👋, I'm [Anadi](https://github.com/anadinema)!
 
 I am a passionate developer trying to bring value to this world!
 
@@ -8,9 +8,9 @@ Spring Boot, Quarkus, Kafka, RESTful, GraphQL API interfaces and more.
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
-Joined Github **2** years ago.
+Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
-Since then I pushed **1**+ commits, submitted **2**+ pull requests, and contributed to **2**+ public repositories.
+Since then I pushed **{{ COMMITS }}**+ commits, submitted **{{ PULL_REQUESTS }}**+ pull requests, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
 
 ## Languages and tools
 
@@ -126,15 +126,3 @@ Since then I pushed **1**+ commits, submitted **2**+ pull requests, and contribu
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-
-<!-- - 👋 Hi, I’m @anadinema99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
-
-<!---
-anadinema99/anadinema99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
