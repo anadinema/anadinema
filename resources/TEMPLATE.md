@@ -17,8 +17,6 @@ Since then I pushed **{{ COMMITS }}**+ commits and submitted **{{ PULL_REQUESTS 
 #### Learning right now
 
 <p>
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&&logoColor=white" />
-  <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&&logoColor=white" />
   <img alt="ReactiveX" src="https://img.shields.io/badge/RxJs-B7178C?style=for-the-badge&logo=reactivex&&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&&logoColor=white" />
@@ -65,7 +63,7 @@ Since then I pushed **{{ COMMITS }}**+ commits and submitted **{{ PULL_REQUESTS 
 <img align="right" height="210" width="365" alt="" src="resources/gig-code.gif" />
 
 - 🛠 &nbsp; I’m currently working with Java backend, APIs, events, etc.
-- 🚀 &nbsp; I’m currently exploring Kotlin, Frontend, JS backend, etc.
+- 🚀 &nbsp; I’m currently exploring Frontend, JS backend, etc.
 - 👾 &nbsp; Fun fact: **Cold is colder when it's not so cold**.
 - 📫 &nbsp; Reach me out [here](mailto:anadi.nema@outlook.com).
 
