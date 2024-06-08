@@ -10,7 +10,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Joined Github **6** years ago.
 
-Since then I pushed **86**+ commits and submitted **4**+ pull requests.
+Since then I pushed **89**+ commits and submitted **4**+ pull requests.
 
 ## Languages and tools
 
