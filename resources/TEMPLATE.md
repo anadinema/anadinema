@@ -20,16 +20,19 @@ Since then I pushed **{{ COMMITS }}**+ commits and submitted **{{ PULL_REQUESTS 
   <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&&logoColor=white" />
   <img alt="ReactiveX" src="https://img.shields.io/badge/RxJs-B7178C?style=for-the-badge&logo=reactivex&&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&&logoColor=white" />
-  
+
 </p>
 
 #### Rolling in with
 <p>
   <img alt="Java" src="https://img.shields.io/badge/java-437291?style=for-the-badge&logo=openjdk&&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&&logoColor=white" /> 
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&&logoColor=white" />
   <img alt="Quarkus" src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=postgresql&&logoColor=white" />
+  <img alt="Upstash" src="https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=upstash&&logoColor=white" />
+  #00E9A3
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&&logoColor=white" />
@@ -43,7 +46,7 @@ Since then I pushed **{{ COMMITS }}**+ commits and submitted **{{ PULL_REQUESTS 
   <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&&logoColor=white" />
   <img alt="Argo" src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/Azure-1a73e8?style=for-the-badge&logo=microsoftazure&&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&&logoColor=white" />
   <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&&logoColor=white" />
   <img alt="Apache Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&&logoColor=white" />
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&&logoColor=white" />
@@ -99,11 +102,11 @@ Since then I pushed **{{ COMMITS }}**+ commits and submitted **{{ PULL_REQUESTS 
   	<ul>
   	    <li><b>OS:</b> MacOS 14 Sonoma</li>
 	    <li><b>Laptop: </b> Macbook Pro M2 Pro</li>
-  	    <li><b>Browser: </b> Brave & Safari</li>
+  	    <li><b>Browser: </b> Arc Browser</li>
 	    <li><b>Terminal: </b> iTerm2</li>
         <li><b>Shell: </b> zsh with Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>IDE:</b> Intellij IDEA Ultimate, XCode</li>
-	    <li><b>Code Editor:</b> VSCode & Sublime text</li>
+	    <li><b>Code Editor:</b> Zed</li>
  	    <li><b>Other Tools:</b> Things 3, Postman, Notion, 1Password and Surfshark</li>
 	    <li><b>To Stay Updated:</b> Dev.to, tldr, YouTube</li>
 	</ul>
