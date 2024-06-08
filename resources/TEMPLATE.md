@@ -32,7 +32,6 @@ Since then I pushed **{{ COMMITS }}**+ commits and submitted **{{ PULL_REQUESTS 
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=postgresql&&logoColor=white" />
   <img alt="Upstash" src="https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=upstash&&logoColor=white" />
-  #00E9A3
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&&logoColor=white" />
