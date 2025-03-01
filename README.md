@@ -8,7 +8,7 @@ Spring Boot, Quarkus, Kafka, RESTful, GraphQL API interfaces and more.
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
-Joined Github **6** years ago.
+Joined Github **7** years ago.
 
 Since then I pushed **148**+ commits and submitted **6**+ pull requests.
 
