@@ -15,7 +15,7 @@ jobs:
     - name: generate-readme
       uses: teoxoy/profile-readme-stats@v2
       with:
-        token: ${{ secrets.GH_ACCESS_TOKEN }}
+        token: ${{ secrets.GH_TOKEN }}
         template: './resources/TEMPLATE.md'
         includeForks: true
     - name: update-readme
