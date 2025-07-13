@@ -2,14 +2,25 @@ name: auto-approve-readme-pr
 
 on:
   pull_request_target:
+  workflow_dispatch:
+    inputs:
+      pr-number:
+        description: Pull request number to auto-approve
+        required: true
 
 jobs:
   approve:
+    if: ${{ github.actor_id == 'github-actions[bot]' || github.actor_id == 'anadinema'}}
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
-    if: github.actor == 'github-actions[bot]'
     steps:
       - uses: hmarr/auto-approve-action@v4
+        if: ${{ github.event_name != 'workflow_dispatch' }}
         with:
           github-token: ${{ secrets.GH_TOKEN }}
+      - uses: hmarr/auto-approve-action@v4
+        if: ${{ github.event_name == 'workflow_dispatch' }}
+        with:
+          github-token: ${{ secrets.GH_TOKEN }}
+          pull-request-number: ${{ inputs.pr-number }}
