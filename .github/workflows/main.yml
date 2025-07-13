@@ -3,7 +3,7 @@ on:
     - cron: '0 */12 * * *' # every 12 hours
   push:
     branches:
-      - master
+      - main
 
 jobs:
   publish:
@@ -12,13 +12,13 @@ jobs:
     - uses: actions/checkout@v3
       with:
         fetch-depth: 0
-    - name: Generate README.md
+    - name: generate-readme
       uses: teoxoy/profile-readme-stats@v2
       with:
         token: ${{ secrets.TOKEN }}
         template: './resources/TEMPLATE.md'
         includeForks: true
-    - name: Update README.md
+    - name: update-readme
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
         git config user.name github-actions
