@@ -9,6 +9,13 @@ on:
         required: true
 
 jobs:
+  get-actor:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          echo ${{ github.event_name }}
+          echo ${{ github.actor_id }}
+          echo ${{ github.actor }}
   approve:
     if: ${{ github.actor_id == 'github-actions[bot]' || github.actor_id == 'anadinema'}}
     runs-on: ubuntu-latest
