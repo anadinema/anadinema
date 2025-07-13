@@ -19,7 +19,7 @@ jobs:
     - name: generate-readme
       uses: teoxoy/profile-readme-stats@v3
       with:
-        token: ${{ secrets.GH_TOKEN }}
+        token: ${{ secrets.README_TOKEN }}
         template: './resources/TEMPLATE.md'
         includeForks: true
     - name: create-pr
