@@ -1,0 +1,15 @@
+name: auto-approve-readme-pr
+
+on:
+  pull_request_target:
+
+jobs:
+  approve:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+    if: github.actor == 'github-actions[bot]'
+    steps:
+      - uses: hmarr/auto-approve-action@v4
+        with:
+          github-token: ${{ secrets.GH_TOKEN }}
